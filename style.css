@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(107, 31, 31);
-    color: rgba(121, 145, 15, 0.719);
+    background-color: rgb(126, 0, 0);
+    color: rgb(142, 173, 0);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: 0;
 }
@@ -13,7 +13,7 @@ header {
 
 h1 {
     font-size: 30px;
-    border-bottom: double 5px rgb(133, 60, 12);
+    border-bottom: double 5px rgb(192, 125, 0);
     text-align: center;
 }
 
